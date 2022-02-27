@@ -9,11 +9,11 @@ class LuciferMoringstar(object):
 
 🧑 My Dev : [HOWTODO](t.me/howtodoyt)
 
-🧑 My Creator : {dev_name}
+🧑 My jaisal : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/bossstory/LuciferMoringstar-Robot)
+📦 My data : [Click Here](https://github.com/bossstory/LuciferMoringstar-Robot)
 
-📺 My Youtube : [Ckick Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
+📺 My Instagram : [Ckick Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
 
 🏷️ My Updates : [HOW TO DO](t.me/HTDGROUPFORMOVIES)
 
